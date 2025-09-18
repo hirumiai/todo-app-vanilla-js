@@ -12,4 +12,4 @@ Aplikasi web To-Do List sederhana yang dibuat untuk melatih fundamental JavaScri
 - JavaScript (ES6+)
 
 ## Live Demo
-(Link demonya taruh sini nanti, lihat poin 2)
+https://hirumiai.github.io/todo-app-vanilla-js/
